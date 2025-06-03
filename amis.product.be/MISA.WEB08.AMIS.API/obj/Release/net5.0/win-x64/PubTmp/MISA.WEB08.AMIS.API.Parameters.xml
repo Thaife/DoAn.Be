@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="publish" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\SSD2\\Khoá\ học\\Bài\ tập\ CTM\ Misa\\MISA\.WEB08\.AMIS\\MISA\.WEB08\.AMIS\.API\\obj\\Release\\net5\.0\\win-x64\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="5.8.14" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.WEB08.AMIS.Common\MISA.WEB08.AMIS.Common.csproj" />
+    <ProjectReference Include="..\MISA.WEB08.AMIS.DL\MISA.WEB08.AMIS.DL.csproj" />
+  </ItemGroup>
+
+</Project>

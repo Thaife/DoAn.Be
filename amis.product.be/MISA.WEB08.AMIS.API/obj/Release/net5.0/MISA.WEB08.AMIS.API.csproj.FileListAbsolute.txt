@@ -1,0 +1,195 @@
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.Development.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\libman.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.exe
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.deps.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Dapper.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\EPPlus.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MySqlConnector.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Npgsql.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.AssemblyReference.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CopyComplete
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.genruntimeconfig.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.Development.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\libman.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.exe
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.deps.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Dapper.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\EPPlus.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MySqlConnector.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Npgsql.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.AssemblyReference.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CopyComplete
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.genruntimeconfig.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\libman.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.exe
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.deps.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Dapper.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\EPPlus.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MySqlConnector.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Npgsql.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.pdb
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.pdb
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.pdb
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CopyComplete
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.genruntimeconfig.cache
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Khac Tiem\Downloads\BackEnd\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\appsettings.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\libman.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.exe
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.deps.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Dapper.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\EPPlus.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MySqlConnector.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Npgsql.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\System.IO.Pipelines.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.BL.pdb
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.Common.pdb
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\bin\Release\net5.0\MISA.WEB08.AMIS.DL.pdb
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.csproj.CopyComplete
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\ref\MISA.WEB08.AMIS.API.dll
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.pdb
+C:\Users\Khac Tiem\Downloads\src_do_an_lam_thue\amis.product.be\MISA.WEB08.AMIS.API\obj\Release\net5.0\MISA.WEB08.AMIS.API.genruntimeconfig.cache

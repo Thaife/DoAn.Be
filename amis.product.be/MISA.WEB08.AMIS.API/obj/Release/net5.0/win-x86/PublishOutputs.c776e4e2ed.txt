@@ -1,0 +1,8 @@
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\appsettings.Development.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\appsettings.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\libman.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\MISA.WEB08.AMIS.API.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\MISA.WEB08.AMIS.BL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\MISA.WEB08.AMIS.Common.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\MISA.WEB08.AMIS.DL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\PubTmp\Out\MISA.WEB08.AMIS.API.exe

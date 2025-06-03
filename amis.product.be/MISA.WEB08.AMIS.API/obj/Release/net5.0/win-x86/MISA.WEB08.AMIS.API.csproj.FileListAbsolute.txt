@@ -1,0 +1,89 @@
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\appsettings.Development.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\appsettings.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\libman.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.exe
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.deps.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.runtimeconfig.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\ref\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Dapper.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\EPPlus.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.OpenApi.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MySqlConnector.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Newtonsoft.Json.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Npgsql.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.BL.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.Common.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.DL.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.BL.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.Common.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.DL.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.csproj.CopyComplete
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\ref\MISA.WEB08.AMIS.API.dll
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.pdb
+D:\Data\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.genruntimeconfig.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\appsettings.Development.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\libman.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\appsettings.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.exe
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.deps.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.runtimeconfig.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.runtimeconfig.dev.json
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\ref\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Dapper.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\EPPlus.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Logging.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.IO.RecyclableMemoryStream.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Microsoft.OpenApi.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MySqlConnector.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Newtonsoft.Json.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Npgsql.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.BL.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.Common.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.DL.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.BL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.Common.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\bin\Release\net5.0\win-x86\MISA.WEB08.AMIS.DL.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.AssemblyInfoInputs.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.AssemblyInfo.cs
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.csproj.CoreCompileInputs.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.Manifest.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\staticwebassets\MISA.WEB08.AMIS.API.StaticWebAssets.xml
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\scopedcss\bundle\MISA.WEB08.AMIS.API.styles.css
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.RazorTargetAssemblyInfo.cache
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.csproj.CopyComplete
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\ref\MISA.WEB08.AMIS.API.dll
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.pdb
+E:\SSD2\Khoá học\Bài tập CTM Misa\MISA.WEB08.AMIS\MISA.WEB08.AMIS.API\obj\Release\net5.0\win-x86\MISA.WEB08.AMIS.API.genruntimeconfig.cache

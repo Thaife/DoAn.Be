@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActiveFalse" xml:space="preserve">
+    <value>Ngừng hoạt động</value>
+    <comment>Hiển thị trên excel</comment>
+  </data>
+  <data name="ActiveTrue" xml:space="preserve">
+    <value>Đang hoạt động</value>
+    <comment>Hiển thị trên excel</comment>
+  </data>
+  <data name="BackGroundColorHeaderExport" xml:space="preserve">
+    <value>#D8D8D8</value>
+    <comment>Màu background header khi export file</comment>
+  </data>
+  <data name="DefaultUser" xml:space="preserve">
+    <value>Khắc Tiềm</value>
+    <comment>Tên người dùng mặc định</comment>
+  </data>
+  <data name="DevMsg_DeleteFailed" xml:space="preserve">
+    <value>Delete to database return 0</value>
+    <comment>Message cho Dev đọc khi xoá một bản ghi trong DB thất bại</comment>
+  </data>
+  <data name="DevMsg_DeleteMultipleFailed" xml:space="preserve">
+    <value>Delete multiple failed</value>
+    <comment>Message cho Dev đọc khi xoá nhiều bản ghi thât bại</comment>
+  </data>
+  <data name="DevMsg_Exception" xml:space="preserve">
+    <value>Catched an exception</value>
+    <comment>Message cho Dev đọc khi gọi API gặp Exception</comment>
+  </data>
+  <data name="DevMsg_InsertFailed" xml:space="preserve">
+    <value>Insert to database return 0</value>
+    <comment>Message cho Dev đọc khi Insert bản ghi vào database thất bại</comment>
+  </data>
+  <data name="DevMsg_UpdateFailed" xml:space="preserve">
+    <value>Update to database return 0</value>
+    <comment>Message cho Dev đọc khi cập nhật bản ghi trong database thất bại</comment>
+  </data>
+  <data name="DevMsg_ValidateFailed" xml:space="preserve">
+    <value>Invalid input field</value>
+    <comment>Message cho Dev đọc khi Validate dữ liệu đầu vào thất bại</comment>
+  </data>
+  <data name="ExcelFontContent" xml:space="preserve">
+    <value>Times New Roman</value>
+    <comment>Font family nội dung khi export file</comment>
+  </data>
+  <data name="ExcelFontHeader" xml:space="preserve">
+    <value>Arial</value>
+    <comment>Font family header khi export file</comment>
+  </data>
+  <data name="GenderFemale" xml:space="preserve">
+    <value>Nữ</value>
+    <comment>Giới tính nữ hiển thị giao diện</comment>
+  </data>
+  <data name="GenderMale" xml:space="preserve">
+    <value>Nam</value>
+    <comment>Giới tính nam hiển thị giao diện</comment>
+  </data>
+  <data name="GenderOther" xml:space="preserve">
+    <value>Khác</value>
+    <comment>Giới tính Khác hiển thị giao diện</comment>
+  </data>
+  <data name="Message_data_change" xml:space="preserve">
+    <value>message.api.data_change</value>
+    <comment>i18n</comment>
+  </data>
+  <data name="Message_export_null" xml:space="preserve">
+    <value>message.api.export_null</value>
+    <comment>i18n</comment>
+  </data>
+  <data name="Message_import_fail" xml:space="preserve">
+    <value>message.api.import_fail</value>
+    <comment>i18n</comment>
+  </data>
+  <data name="Message_import_success" xml:space="preserve">
+    <value>message.api.import_success</value>
+    <comment>i18n</comment>
+  </data>
+  <data name="Message_notFoundData" xml:space="preserve">
+    <value>message.api.notFoundData</value>
+    <comment>i18n</comment>
+  </data>
+  <data name="MoreInfo_Exception" xml:space="preserve">
+    <value>https://openapi.google.com/api/errorcode</value>
+    <comment>Đường dẫn mô tả lỗi khi gọi API gặp Exception</comment>
+  </data>
+  <data name="MoreInfo_InsertFailed" xml:space="preserve">
+    <value>https://openapi.google.com/api/errorcode</value>
+    <comment>Đường dẫn mô tả lỗi khi Insert bản ghi vào database thất bại</comment>
+  </data>
+  <data name="MoreInfo_Request" xml:space="preserve">
+    <value>https://openapi.google.com/api/errorcode</value>
+    <comment>Đường dẫn mô tả lỗi khi gọi API chung</comment>
+  </data>
+  <data name="NameFileExcel" xml:space="preserve">
+    <value>Danh_sach_nhan_vien</value>
+    <comment>Tên file excel khi export</comment>
+  </data>
+  <data name="Proc_DeleteMultiple" xml:space="preserve">
+    <value>Proc_{0}_DeleteMultiple</value>
+    <comment>Template string cho procedure xoá nhiều bản ghi</comment>
+  </data>
+  <data name="Proc_DeleteOne" xml:space="preserve">
+    <value>Proc_{0}_DeleteOne</value>
+    <comment>Template string cho procedure xoá một</comment>
+  </data>
+  <data name="Proc_GetAll" xml:space="preserve">
+    <value>Proc_{0}_GetAll</value>
+    <comment>Template string cho procedure lấy tất cả bản ghi của một bảng</comment>
+  </data>
+  <data name="Proc_GetAllActive" xml:space="preserve">
+    <value>Proc_{0}_GetAllActive</value>
+    <comment>Template string cho procedure lấy tất cả bản ghi của một bảng đang hoạt động</comment>
+  </data>
+  <data name="Proc_GetDataByAttribute" xml:space="preserve">
+    <value>Proc_GetDataByAttribute</value>
+    <comment>Lấy ra bản ghi bất kỳ dựa vào một thuộc tính nhất định để check trùng</comment>
+  </data>
+  <data name="Proc_GetDataByCheckIncurred" xml:space="preserve">
+    <value>Proc_GetDataByCheckIncurred</value>
+    <comment>Lấy ra bản ghi bất kỳ dựa vào một thuộc tính nhất định để check phát sinh</comment>
+  </data>
+  <data name="Proc_GetDetailOne" xml:space="preserve">
+    <value>Proc_{0}_GetDetailOne</value>
+    <comment>Template string cho procedure lấy ra thông tin chi tiết của một bản ghi</comment>
+  </data>
+  <data name="Proc_GetDropdown" xml:space="preserve">
+    <value>Proc_{0}_GetDropdown</value>
+    <comment>Template string cho procedure lấy ra danh sách đổ vào dropdown list</comment>
+  </data>
+  <data name="Proc_GetFilterExport" xml:space="preserve">
+    <value>Proc_{0}_GetFilterExport</value>
+    <comment>Template string cho procedure lấy ra danh sách tìm kiếm không phân trang</comment>
+  </data>
+  <data name="Proc_GetFilterPaging" xml:space="preserve">
+    <value>Proc_{0}_GetFilterPaging</value>
+    <comment>Template string cho procedure lấy ra danh sách dữ liệu một bảng có phân trang và tìm kiếm</comment>
+  </data>
+  <data name="Proc_GetNewCode" xml:space="preserve">
+    <value>Proc_{0}_GetNewCode</value>
+    <comment>Template string cho procedure lấy ra mã sinh tự động tăng của một bảng</comment>
+  </data>
+  <data name="Proc_Import" xml:space="preserve">
+    <value>Proc_{0}_Import</value>
+    <comment>Template string cho procedure Import dữ liệu từ tệp</comment>
+  </data>
+  <data name="Proc_InsertOne" xml:space="preserve">
+    <value>Proc_{0}_InsertOne</value>
+    <comment>Template string cho procedure thêm mới một bản ghi</comment>
+  </data>
+  <data name="Proc_UpdateActive" xml:space="preserve">
+    <value>Proc_{0}_UpdateActive</value>
+    <comment>Template set toggle update active</comment>
+  </data>
+  <data name="Proc_UpdateOne" xml:space="preserve">
+    <value>Proc_{0}_UpdateOne</value>
+    <comment>Template string cho procedure cập nhật một bản ghi</comment>
+  </data>
+  <data name="UserMsg_CheckIncurred" xml:space="preserve">
+    <value>Đã có phát sinh bản ghi này với bảng {0}. Bạn phải xóa các phát sinh liên quan trước khi xóa.</value>
+    <comment>Thông báo xoá bản ghi thất bại khi có phát sinh</comment>
+  </data>
+  <data name="UserMsg_DeleteFailed" xml:space="preserve">
+    <value>Xoá bản ghi thất bại</value>
+    <comment>Message cho User đọc khi xoá nhân viên trong DB thất bại</comment>
+  </data>
+  <data name="UserMsg_DeleteMultipleFailed" xml:space="preserve">
+    <value>Xoá thất bại nhiều bản ghi, hãy tải lại dữ liệu và thử lại</value>
+    <comment>Message cho User đọc khi xoá nhiều bản ghi thât bại</comment>
+  </data>
+  <data name="UserMsg_Exception" xml:space="preserve">
+    <value>message.api.exception</value>
+    <comment>Message cho User đọc khi gọi API gặp Exception</comment>
+  </data>
+  <data name="UserMsg_InsertFailed" xml:space="preserve">
+    <value>Thêm mới nhân viên thất bại</value>
+    <comment>Message cho User đọc khi thêm mới bản ghi vào database thất bại</comment>
+  </data>
+  <data name="UserMsg_UpdateFailed" xml:space="preserve">
+    <value>Cập nhật thông tin nhân viên thất bại</value>
+    <comment>Message cho User đọc khi cập nhật bản ghi trong database thất bại</comment>
+  </data>
+  <data name="UserMsg_ValidateFailed" xml:space="preserve">
+    <value>Dữ liệu đầu vào không hợp lệ</value>
+    <comment>Message cho User đọc khi Validate dữ liệu đầu vào thât bại</comment>
+  </data>
+</root>

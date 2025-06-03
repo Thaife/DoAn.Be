@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MISA.WEB08.AMIS.Common/1.0.0": {
+        "runtime": {
+          "MISA.WEB08.AMIS.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.WEB08.AMIS.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

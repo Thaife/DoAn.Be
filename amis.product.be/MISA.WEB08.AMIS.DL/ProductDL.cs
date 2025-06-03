@@ -10,7 +10,7 @@ namespace MISA.WEB08.AMIS.DL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Product từ tầng DL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class ProductDL : BaseDL<Product>, IProductDL
     {
         #region Field
@@ -35,7 +35,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="parameters"></param>
         /// <param name="record"></param>
-        /// create by: nguyễn khắc tiềm (21/10/2022)
+        /// create by: TVTHAI (21/10/2022)
         public override void CustomParameterForCreate(ref DynamicParameters? parameters, Product record)
         {
             string prefix = "";
@@ -53,7 +53,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHome(string keyWord)
         {
             // Khởi tạo các parameter để chèn vào trong Proc
@@ -69,7 +69,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHot()
         {
             string storeProcedureName = "Proc_Product_GetProductHot";
@@ -81,7 +81,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductPrice()
         {
             string storeProcedureName = "Proc_Product_GetProductPrice";
@@ -92,7 +92,7 @@ namespace MISA.WEB08.AMIS.DL
         /// Hàm lấy ra danh sách record có lọc và phân trang
         /// </summary>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public Paging GetFitterShops(string v_KeyWord, double v_PriceStart, double v_PriceEnd, string v_CategoryID, string v_TrademarkID, string v_OriginID, string v_DepotID, int v_Page)
         {
             Paging result;

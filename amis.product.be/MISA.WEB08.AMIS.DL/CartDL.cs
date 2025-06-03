@@ -13,7 +13,7 @@ namespace MISA.WEB08.AMIS.DL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Unit từ tầng DL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class CartDL : BaseDL<Cart>, ICartDL
     {
         #region Field
@@ -41,7 +41,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="recordID">ID bản ghi</param>
         /// <param name="stateForm">Trạng thái lấy (sửa hay nhân bản, ...)</param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public override object GetRecordByID(string recordID, string? stateForm)
         {
             Cart result;
@@ -79,7 +79,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="recordID">ID bản ghi</param>
         /// <param name="stateForm">Trạng thái lấy (sửa hay nhân bản, ...)</param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object UpdateCart(string v_CurrentUser, string v_ProductID, string v_State)
         {
             Cart result;
@@ -117,7 +117,7 @@ namespace MISA.WEB08.AMIS.DL
         /// Thanh toán
         /// </summary>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public void Checkout(Order order)
         {
             var v_MessOut = "";
@@ -144,7 +144,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetOrderUser(string v_CurrentUser)
         {
             // Khởi tạo các parameter để chèn vào trong Proc
@@ -181,7 +181,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="recordID">ID bản ghi</param>
         /// <param name="stateForm">Trạng thái lấy (sửa hay nhân bản, ...)</param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetOrderByID(string v_OrderID)
         {
             Order result;
@@ -218,7 +218,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetAddress(string v_Address, int? v_ID)
         {
             // Khởi tạo các parameter để chèn vào trong Proc
@@ -255,7 +255,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetStatusOrder(string v_OrderID)
         {
             // Khởi tạo các parameter để chèn vào trong Proc
@@ -296,7 +296,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="v_Query">Lọc theo yêu cầu</param>
         /// <param name="v_Select">Trường muốn select</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public override Paging GetFitterRecords(int offset, int limit, string? keyword, string? sort, string v_Query, string v_Select)
         {
             Paging result;
@@ -347,7 +347,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>ID record sau khi xoá</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public override ServiceResponse DeleteRecord(Guid recordID)
         {
             var v_MessOut = "";
@@ -378,7 +378,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="listRecordID">danh sách bản ghi cần xoá</param>
         /// <param name="count">Số lượng bản ghi bị xoá</param>
         /// <returns>Số kết quả bản ghi đã xoá</returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override ServiceResponse DeleteMultiple(string listRecordID, int count)
         {
             var rowAffects = 0;
@@ -456,7 +456,7 @@ namespace MISA.WEB08.AMIS.DL
         /// <param name="listRecordID">danh sách bản ghi cần xoá</param>
         /// <param name="count">Số lượng bản ghi bị xoá</param>
         /// <returns>Số kết quả bản ghi đã xoá</returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public ServiceResponse Actionall(string listRecordID, int count, string action)
         {
             var rowAffects = 0;

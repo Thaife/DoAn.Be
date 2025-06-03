@@ -7,7 +7,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Đơn vị ứng với bảng unit trong database
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+    /// Created by : TVTHAI 21.09.2022
     public class Product : BaseEntity
     {
         /// <summary>
@@ -156,7 +156,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// nhân viên ứng với bảng employee trong database dùng để Import
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+    /// Created by : TVTHAI 21.09.2022
     public class ProductImport : BaseEntity
     {
         /// <summary>

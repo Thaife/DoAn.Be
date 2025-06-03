@@ -5,7 +5,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Dữ liệu tìm kiếm với các cài đặt
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class ComparisonTypeSearch
     {
         /// <summary>
@@ -37,7 +37,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Option join
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class Join
     {
         /// <summary>

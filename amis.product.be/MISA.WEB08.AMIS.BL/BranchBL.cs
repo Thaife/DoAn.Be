@@ -13,7 +13,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Unit từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class BranchBL : BaseBL<Branch>, IBranchBL
     {
         #region Field
@@ -53,7 +53,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="record">Record cần custom validate</param>
         /// <param name="errorDetail">Lỗi chi tiết khi nhập</param>
         /// <param name="status">Trạng thái nhập khẩu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomResultValidate(ref Branch record, string? errorDetail, string? status)
         {
             record.BranchID = Guid.NewGuid();
@@ -66,7 +66,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="listRecord">Danh sách từ tệp</param>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override ServiceResponse CustomValidateImportXlsx(Branch record, List<Branch> listRecord)
         {
             var validateFailures = "";
@@ -96,7 +96,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="json">Dữ liệu sẽ được chuẩn hoá</param>
         /// <param name="listFail">Danh sách dữ liệu không hợp lệ</param>
         /// <param name="list">Danh sách dữ liệu đúng kiểu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomListTypeImportXlsx(string json, ref List<object> listFail, ref List<Branch> list)
         {
             void setFail(ref BranchImport item, ref List<object> listFail, ref bool check, string propertyName)

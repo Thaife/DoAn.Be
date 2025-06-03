@@ -6,7 +6,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Nhà kho ứng với bảng depot trong database
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+    /// Created by : TVTHAI 21.09.2022
     public class Depot : BaseEntity
     {
         /// <summary>
@@ -47,7 +47,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Nhà kho ứng với bảng depot trong database Import
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+    /// Created by : TVTHAI 21.09.2022
     public class DepotImport : BaseEntity
     {
         /// <summary>

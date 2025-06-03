@@ -7,7 +7,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Unit từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public interface IProductBL : IBaseBL<Product>
     {
         /// <summary>
@@ -15,7 +15,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHome(Dictionary<string, object> formData);
 
         /// <summary>
@@ -23,7 +23,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHot();
 
         /// <summary>
@@ -31,7 +31,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductPrice();
 
         /// <summary>
@@ -39,7 +39,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public Paging GetFitterShops(Dictionary<string, object> formData);
     }
 }

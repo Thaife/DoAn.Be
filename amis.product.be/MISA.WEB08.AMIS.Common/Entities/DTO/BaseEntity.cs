@@ -6,7 +6,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
     /// <summary>
     /// Base của các class model mà model của bảng trong Database nào cũng thường có
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class BaseEntity
     {
         /// <summary>

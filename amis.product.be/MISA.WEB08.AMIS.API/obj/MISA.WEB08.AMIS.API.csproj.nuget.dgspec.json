@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj": {}
+    "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj": {}
   },
   "projects": {
-    "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj": {
+    "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj",
+        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj",
         "projectName": "MISA.WEB08.AMIS.API",
-        "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj",
+        "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.API\\MISA.WEB08.AMIS.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.API\\obj\\",
+        "outputPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj": {
-                "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj"
+              "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj": {
+                "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj"
               },
-              "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
-                "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
+              "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
+                "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj": {
+    "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
+        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
         "projectName": "MISA.WEB08.AMIS.BL",
-        "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
+        "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\obj\\",
+        "outputPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,11 +118,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
-                "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
+              "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
+                "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
               },
-              "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj": {
-                "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj"
+              "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj": {
+                "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj"
               }
             }
           }
@@ -175,14 +175,14 @@
         }
       }
     },
-    "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
+    "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj",
+        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj",
         "projectName": "MISA.WEB08.AMIS.Common",
-        "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj",
+        "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\obj\\",
+        "outputPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,14 +236,14 @@
         }
       }
     },
-    "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj": {
+    "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
+        "projectUniqueName": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
         "projectName": "MISA.WEB08.AMIS.DL",
-        "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
+        "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\obj\\",
+        "outputPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -261,8 +261,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
-                "projectPath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
+              "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj": {
+                "projectPath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.Common\\MISA.WEB08.AMIS.Common.csproj"
               }
             }
           }

@@ -6,7 +6,7 @@ namespace MISA.WEB08.AMIS.DL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng employee từ tầng DL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class EmployeeDL : BaseDL<Employee>, IEmployeeDL
     {
         #region Field
@@ -31,7 +31,7 @@ namespace MISA.WEB08.AMIS.DL
         /// </summary>
         /// <param name="parameters"></param>
         /// <param name="record"></param>
-        /// create by: nguyễn khắc tiềm (21/10/2022)
+        /// create by: TVTHAI (21/10/2022)
         public override void CustomParameterForCreate(ref DynamicParameters? parameters, Employee record)
         {
             string prefix = "";

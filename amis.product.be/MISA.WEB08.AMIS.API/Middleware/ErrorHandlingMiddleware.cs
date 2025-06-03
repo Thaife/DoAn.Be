@@ -15,31 +15,31 @@ namespace MISA.WEB08.AMIS.API.Middleware
         /// <summary>
         /// Mã lỗi enum
         /// </summary>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public MisaAmisErrorCode errorCode { get; set; }
 
         /// <summary>
         /// Mã lỗi cho dev
         /// </summary>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public string devMsg { get; set; }
 
         /// <summary>
         /// Mã lỗi cho người dùng
         /// </summary>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public dynamic? userMsg { get; set; }
 
         /// <summary>
         /// Thông tin thêm
         /// </summary>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public string moreInfo { get; set; }
 
         /// <summary>
         /// ID kết nối để trace sau này để dò lỗi
         /// </summary>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public string traceId { get; set; }
 
         #endregion
@@ -54,7 +54,7 @@ namespace MISA.WEB08.AMIS.API.Middleware
         /// <param name="userMsg"></param>
         /// <param name="moreInfo"></param>
         /// <param name="traceId">ID kết nối</param>
-        /// Created by : Nguyễn Khắc Tiềm 21.09.2022
+        /// Created by : TVTHAI 21.09.2022
         public MisaAmisErrorResultCustom(MisaAmisErrorCode errorCode, string devMsg, dynamic? userMsg, string moreInfo, string traceId)
         {
             this.userMsg = userMsg;
@@ -73,19 +73,19 @@ namespace MISA.WEB08.AMIS.API.Middleware
         /// <summary>
         /// trả về true hoặc false (thành công hoặc thất bại)
         /// </summary>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         public bool success { get; set; }
 
         /// <summary>
         /// Mã lỗi đi kèm
         /// </summary>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         public MisaAmisErrorCode? errorCode { get; set; }
 
         /// <summary>
         /// Dữ liệu đi kèm
         /// </summary>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         public dynamic? data { get; set; }
 
         #endregion

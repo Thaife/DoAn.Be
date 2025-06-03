@@ -19,7 +19,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="file">File</param>
         /// <returns></returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         [Route("PostImage")]
         [HttpPost]
         public virtual async Task<IActionResult> PostImage(IFormFile file)

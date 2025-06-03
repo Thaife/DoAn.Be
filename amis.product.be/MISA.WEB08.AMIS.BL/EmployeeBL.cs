@@ -18,7 +18,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng employee từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class EmployeeBL : BaseBL<Employee>, IEmployeeBL
     {
         #region Field
@@ -42,7 +42,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Hàm xử lý custom override validate model employee
         /// </summary>
         /// <param name="employee">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override ServiceResponse? CustomValidate(Employee employee)
         {
             var validateFailures = "";
@@ -106,7 +106,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Hàm xử lý custom tham số cho bản ghi cần validate
         /// </summary>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomParameterValidate(ref Employee record)
         {
             record.BranchID = Guid.NewGuid();
@@ -118,7 +118,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="record">Record cần custom validate</param>
         /// <param name="errorDetail">Lỗi chi tiết khi nhập</param>
         /// <param name="status">Trạng thái nhập khẩu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomResultValidate(ref Employee record, string? errorDetail, string? status)
         {
             record.EmployeeID = Guid.NewGuid();
@@ -131,7 +131,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="listRecord">Danh sách từ tệp</param>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override ServiceResponse CustomValidateImportXlsx(Employee record, List<Employee> listRecord)
         {
             var validateFailures = "";
@@ -166,7 +166,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="listFail">Danh sách bản ghi không hợp lệ</param>
         /// <param name="listPass">Danh sách bản ghi  hợp lệ</param>
         /// <param name="listFailResultProc">Danh sách bản ghi không hơp lệ trả về từ Proc</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomListFailResultImportXlsx(ref List<object> listFail, ref List<Employee> listPass, List<Employee> listFailResultProc)
         {
             foreach(var item in listFailResultProc)
@@ -183,7 +183,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="json">Dữ liệu sẽ được chuẩn hoá</param>
         /// <param name="listFail">Danh sách dữ liệu không hợp lệ</param>
         /// <param name="list">Danh sách dữ liệu đúng kiểu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomListTypeImportXlsx(string json, ref List<object> listFail, ref List<Employee> list)
         {
             void setFail(ref EmployeeImport item, ref List<object> listFail, ref bool check, string propertyName)

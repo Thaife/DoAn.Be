@@ -17,7 +17,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Product từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class ProductBL : BaseBL<Product>, IProductBL
     {
         #region Field
@@ -45,7 +45,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="record">Record cần custom validate</param>
         /// <param name="errorDetail">Lỗi chi tiết khi nhập</param>
         /// <param name="status">Trạng thái nhập khẩu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomResultValidate(ref Product record, string? errorDetail, string? status)
         {
             record.ProductID = Guid.NewGuid();
@@ -58,7 +58,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="listRecord">Danh sách từ tệp</param>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override ServiceResponse CustomValidateImportXlsx(Product record, List<Product> listRecord)
         {
             var validateFailures = "";
@@ -89,7 +89,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="listFail">Danh sách bản ghi không hợp lệ</param>
         /// <param name="listPass">Danh sách bản ghi  hợp lệ</param>
         /// <param name="listFailResultProc">Danh sách bản ghi không hơp lệ trả về từ Proc</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomListFailResultImportXlsx(ref List<object> listFail, ref List<Product> listPass, List<Product> listFailResultProc)
         {
             foreach (var item in listFailResultProc)
@@ -106,7 +106,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="json">Dữ liệu sẽ được chuẩn hoá</param>
         /// <param name="listFail">Danh sách dữ liệu không hợp lệ</param>
         /// <param name="list">Danh sách dữ liệu đúng kiểu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public override void CustomListTypeImportXlsx(string json, ref List<object> listFail, ref List<Product> list)
         {
             void setFail(ref ProductImport item, ref List<object> listFail, ref bool check, string propertyName)
@@ -217,7 +217,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHome(Dictionary<string, object> formData)
         {
             var v_KeyWord = formData.Keys.Contains("v_KeyWord") ? Convert.ToString(formData["v_KeyWord"]) : "";
@@ -229,7 +229,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductHot()
         {
             return _productDL.GetProductHot();
@@ -240,7 +240,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetProductPrice()
         {
             return _productDL.GetProductPrice();
@@ -251,7 +251,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public Paging GetFitterShops(Dictionary<string, object> formData)
         {
             var v_PriceStart = double.Parse(formData["v_PriceStart"].ToString());

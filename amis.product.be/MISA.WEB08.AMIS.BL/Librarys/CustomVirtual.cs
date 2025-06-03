@@ -14,7 +14,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Hàm xử lý custom validate những model riêng biệt
         /// </summary>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual ServiceResponse CustomValidate(T record)
         {
             return new ServiceResponse
@@ -27,7 +27,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Hàm xử lý custom tham số cho bản ghi cần validate
         /// </summary>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual void CustomParameterValidate(ref T record)
         {
 
@@ -38,7 +38,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="listRecord">Danh sách từ tệp</param>
         /// <param name="record">Record cần custom validate</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual ServiceResponse CustomValidateImportXlsx(T record, List<T> listRecord)
         {
             return new ServiceResponse
@@ -53,7 +53,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="record">Record cần custom validate</param>
         /// <param name="errorDetail">Lỗi chi tiết khi nhập</param>
         /// <param name="status">Trạng thái nhập khẩu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual void CustomResultValidate(ref T record, string? errorDetail, string? status)
         {
 
@@ -65,7 +65,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="listFail">Danh sách bản ghi không hợp lệ</param>
         /// <param name="listPass">Danh sách bản ghi  hợp lệ</param>
         /// <param name="listFailResultProc">Danh sách bản ghi không hơp lệ trả về từ Proc</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual void CustomListFailResultImportXlsx(ref List<object> listFail, ref List<T> listPass, List<T> listFailResultProc)
         {
 
@@ -77,7 +77,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="json">Dữ liệu sẽ được chuẩn hoá</param>
         /// <param name="listFail">Danh sách dữ liệu không hợp lệ</param>
         /// <param name="list">Danh sách dữ liệu đúng kiểu</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public virtual void CustomListTypeImportXlsx(string json, ref List<object> listFail, ref List<T> list)
         {
             list = JsonConvert.DeserializeObject<List<T>>(json.ToString());

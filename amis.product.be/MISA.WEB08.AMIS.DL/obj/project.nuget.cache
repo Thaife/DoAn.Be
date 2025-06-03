@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x6r39J4PhKg=",
+  "dgSpecHash": "XDafKjD5Jaw=",
   "success": true,
-  "projectFilePath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
+  "projectFilePath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",

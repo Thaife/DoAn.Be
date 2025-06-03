@@ -17,7 +17,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
     /// <summary>
     /// API dữ liệu với bảng branch
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm (21/09/2022)
+    /// Created by : TVTHAI (21/09/2022)
     //[Authorize]
     public class CartsController : BasesController<Cart>
     {
@@ -43,7 +43,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("UpdateCart")]
         public virtual async Task<IActionResult> UpdateCart([FromQuery] string? v_CurrentUser, [FromQuery] string? v_ProductID, [FromQuery] string? v_State)
         {
@@ -77,7 +77,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <param name="recordID">ID bản ghi muốn cập nhật</param>
         /// <param name="record">Kiểu dữ liệu bản ghi cập nhật</param>
         /// <return> ID bản ghi sau khi cập nhật <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPost("Checkout")]
         public virtual async Task<IActionResult> Checkout([FromBody] Order order)
         {
@@ -94,7 +94,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpGet("GetOrderUser")]
         public virtual async Task<IActionResult> GetOrderUser([FromQuery] string? v_CurrentUser)
         {
@@ -126,7 +126,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("GetOrderByID")]
         public async Task<IActionResult> GetOrderByID([FromQuery] string? v_OrderID)
         {
@@ -158,7 +158,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [Authorize]
         [HttpPost("fitter")]
         public override async Task<IActionResult> GetFitterRecords([FromBody] Dictionary<string, object> formData)
@@ -191,7 +191,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("GetAddress")]
         public virtual async Task<IActionResult> GetAddress([FromQuery] string? v_Address, [FromQuery] int? v_ID)
         {
@@ -223,7 +223,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="listRecordID">Danh sách ID bản ghi muốn xoá</param>
         /// <return> danh sách ID bản ghi sau khi xoá <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPost("ActionMultipleApi")]
         public async Task<IActionResult> Actionall([FromBody] List<Guid> listRecordID, [FromQuery] string? action)
         {
@@ -285,7 +285,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("GetStatusOrder")]
         public virtual async Task<IActionResult> GetStatusOrder([FromQuery] string? v_OrderID)
         {

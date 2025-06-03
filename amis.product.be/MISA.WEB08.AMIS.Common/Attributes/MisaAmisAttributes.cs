@@ -4,7 +4,7 @@ namespace MISA.WEB08.AMIS.Common.Attributes
 {
     /// <summary>
     /// Attributes xác định cần validate chung
-    /// Create by: Nguyễn Khắc Tiềm 23.09.2022
+    /// Create by: TVTHAI 23.09.2022
     /// </summary>
     [AttributeUsage(AttributeTargets.Property)]
     public class ValidateAttribute : Attribute
@@ -38,7 +38,7 @@ namespace MISA.WEB08.AMIS.Common.Attributes
     /// <summary>
     /// Attribute column tên của Property
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm 23.09.2022
+    /// Create by: TVTHAI 23.09.2022
     [AttributeUsage(AttributeTargets.Property)]
     public class ColumnName : Attribute
     {
@@ -79,7 +79,7 @@ namespace MISA.WEB08.AMIS.Common.Attributes
 
     /// <summary>
     /// Attributes xác định cần validate kiểu string
-    /// Create by: Nguyễn Khắc Tiềm 23.09.2022
+    /// Create by: TVTHAI 23.09.2022
     /// </summary>
     [AttributeUsage(AttributeTargets.Property)]
     public class ValidateString : Attribute

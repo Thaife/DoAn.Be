@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OUOddIfWtDo=",
+  "dgSpecHash": "KU0HP4H4u6A=",
   "success": true,
-  "projectFilePath": "F:\\TruongHoc\\Đồ án\\DO_AN_TVTHAI\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
+  "projectFilePath": "F:\\TruongHoc\\Đồ án\\Do_An_Git\\DoAn.Be\\amis.product.be\\MISA.WEB08.AMIS.BL\\MISA.WEB08.AMIS.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\epplus\\5.8.14\\epplus.5.8.14.nupkg.sha512",

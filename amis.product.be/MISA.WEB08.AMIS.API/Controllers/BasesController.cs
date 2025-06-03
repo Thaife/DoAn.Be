@@ -19,7 +19,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
     /// <summary>
     /// API dữ liệu với bảng trong database
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm (21/09/2022)
+    /// Created by : TVTHAI (21/09/2022)
     [Route("api/v1/[controller]")]
     [ApiController]
     public class BasesController<T> : ControllerBase
@@ -47,7 +47,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// API lấy ra danh sách tất bản ghi trong 1 bảng
         /// <summary>
         /// <return> Danh sách tất cả bản ghi <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpGet]
         public virtual async Task<IActionResult> GetAllRecords()
         {
@@ -78,7 +78,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// Hàm Lấy danh sách dropdown
         /// </summary>
         /// <returns>Danh sách tất cả bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [AllowAnonymous]
         [HttpGet("dropdown")]
         public virtual async Task<IActionResult> GetDropdown()
@@ -111,7 +111,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("{recordID}")]
         public virtual async Task<IActionResult> GetRecordByID([FromRoute] Guid recordID, [FromQuery] string? stateForm)
         {
@@ -142,7 +142,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// Hàm lấy ra mã record tự sinh
         /// </summary>
         /// <returns>Mã bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [HttpGet("next_value")]
         public virtual async Task<IActionResult> GetRecordCodeNew()
         {
@@ -159,7 +159,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPost("fitter")]
         public virtual async Task<IActionResult> GetFitterRecords([FromBody] Dictionary<string, object> formData)
         {
@@ -195,7 +195,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="record">Kiểu dữ liệu bản ghi</param>
         /// <return> ID bản ghi sau khi thêm <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPost]
         public virtual async Task<IActionResult> InsertRecord([FromBody] T record)
         {
@@ -227,7 +227,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="listRecordID">Danh sách ID bản ghi muốn xoá</param>
         /// <return> danh sách ID bản ghi sau khi xoá <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPost("bulk_delete")]
         public virtual async Task<IActionResult> DeleteMultiple([FromBody] List<Guid> listRecordID)
         {
@@ -264,7 +264,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <param name="recordID">ID bản ghi muốn cập nhật</param>
         /// <param name="record">Kiểu dữ liệu bản ghi cập nhật</param>
         /// <return> ID bản ghi sau khi cập nhật <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpPut("{recordID}")]
         public virtual async Task<IActionResult> UpdateRecord([FromRoute] Guid recordID, [FromBody] T record)
         {
@@ -300,7 +300,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="recordID">ID bản ghi</param>
         /// <return> ID bản ghi sau khi xoá <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [HttpDelete("{recordID}")]
         public virtual async Task<IActionResult> DeleteRecord([FromRoute] Guid recordID)
         {
@@ -331,7 +331,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// Toggle active
         /// </summary>
         /// <returns>ID bản ghi </returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         [HttpGet("ToggleActive/{recordID}")]
         public virtual async Task<IActionResult> ToggleActive([FromRoute] Guid recordID)
         {
@@ -363,7 +363,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="file">File Excel</param>
         /// <returns></returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         [Route("import-xlsx")]
         [HttpPost, DisableRequestSizeLimit]
         public virtual async Task<IActionResult> ImportXLSX(IFormFile file)
@@ -392,7 +392,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <returns>file Excel chứa dữ liệu danh sách </returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         [HttpPost("export_data")]
         public virtual async Task<IActionResult> ExportData([FromBody] Dictionary<string, object> formData)
         {

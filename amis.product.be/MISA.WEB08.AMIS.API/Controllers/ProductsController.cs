@@ -15,7 +15,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
     /// <summary>
     /// API dữ liệu với bảng Product
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm (21/09/2022)
+    /// Created by : TVTHAI (21/09/2022)
     [Authorize]
     public class ProductsController : BasesController<Product>
     {
@@ -41,7 +41,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [AllowAnonymous]
         [HttpPost("GetProductHome")]
         public virtual async Task<IActionResult> GetProductHome([FromBody] Dictionary<string, object> formData)
@@ -74,7 +74,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [AllowAnonymous]
         [HttpGet("GetProductHot")]
         public virtual async Task<IActionResult> GetProductHot()
@@ -107,7 +107,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [AllowAnonymous]
         [HttpGet("GetProductPrice")]
         public virtual async Task<IActionResult> GetProductPrice()
@@ -140,7 +140,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [AllowAnonymous]
         [HttpGet("{recordID}")]
         public override async Task<IActionResult> GetRecordByID([FromRoute] Guid recordID, [FromQuery] string? stateForm)
@@ -173,7 +173,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// <summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <return> Danh sách bản ghi sau khi phân trang, chỉ lấy ra số bản ghi và số trang yêu cầu, và tổng số lượg bản ghi có điều kiện <return>
-        /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+        /// Create by: TVTHAI (21/09/2022)
         [AllowAnonymous]
         [HttpPost("FilterShop")]
         public virtual async Task<IActionResult> GetFitterShops([FromBody] Dictionary<string, object> formData)

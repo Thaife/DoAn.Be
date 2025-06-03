@@ -4,7 +4,7 @@ namespace MISA.WEB08.AMIS.Common.Enums
     /// <summary>
     /// Mã lỗi
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm 21.09.2022
+    /// Create by: TVTHAI 21.09.2022
     public enum MisaAmisErrorCode : int
     {
         /// <summary>

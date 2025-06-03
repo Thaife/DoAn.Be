@@ -20,7 +20,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="stream"></param>
         /// <param name="fileName"></param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static string SaveExcelFileToDisk(Stream stream, string fileName)
         {
             // Đường dẫn đến thư mục trong source code backend
@@ -47,7 +47,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="index"></param>
         /// <returns></returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static string GetColumnName(int index)
         {
             string columnName = "";
@@ -67,7 +67,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="headerRow"></param>
         /// <param name="messageError"></param>
         /// <returns></returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static DataTable ReadFromExcelFile(string path, int headerRow, out string messageError)
         {
             DataTable result = new DataTable();
@@ -137,7 +137,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Hàm thực hiện xoá file
         /// </summary>
         /// <param name="pathFileName">Đường dẫn file và tên file</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static void DeleteFile(string pathFileName)
         {
             var path = Path.Combine(Directory.GetCurrentDirectory(), pathFileName);
@@ -156,7 +156,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="count">số lượng bản ghi xuất</param>
         /// <param name="properties">các properties khi xuất</param>
         /// <param name="listField">Các cột được yêu cầu xuất từ FontEnd</param>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static void SetUpExportHeaderData(ref ExcelWorksheet sheet, string column, string Header, int count, PropertyInfo[] properties, string listField)
         {
             // style header
@@ -210,7 +210,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="displayNameAttributes">Tên cột arrt</param>
         /// <param name="recordItem">Bản ghi đang xuất</param>
         /// <returns>True: Có setup, false: Không setup</returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static bool SetUpDataExportDefault(ref ExcelWorksheet sheet, ref string convertDate, PropertyInfo property, int indexRow, int indexBody, object[] displayNameAttributes,object recordItem)
         {
             bool check = false;
@@ -258,7 +258,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="properties">các properties khi xuất</param>
         /// <param name="listField">Các cột được yêu cầu xuất từ FontEnd</param>
         /// <returns>Số lượng cột trong excel</returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public static int CalcIndexCol(PropertyInfo[] properties, string listField)
         {
             int indexCol = 0;

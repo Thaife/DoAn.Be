@@ -5,7 +5,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Unit từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public interface IBranchBL : IBaseBL<Branch>
     {
     }

@@ -16,7 +16,7 @@ namespace MISA.WEB08.AMIS.BL
     /// <summary>
     /// Dữ liệu thao tác với Database và trả về với bảng Unit từ tầng BL
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public class CartBL : BaseBL<Cart>, ICartBL
     {
         #region Field
@@ -43,7 +43,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="recordID">ID bản ghi</param>
         /// <param name="stateForm">Trạng thái lấy (sửa hay nhân bản, ...)</param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object UpdateCart(string v_CurrentUser, string v_ProductID, string v_State)
         {
             return _cartDL.UpdateCart(v_CurrentUser, v_ProductID, v_State);
@@ -53,7 +53,7 @@ namespace MISA.WEB08.AMIS.BL
         /// Thanh toán
         /// </summary>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public bool Checkout(Order order)
         {
             _cartDL.Checkout(order);
@@ -65,7 +65,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetOrderUser(string v_CurrentUser)
         {
             return _cartDL.GetOrderUser(v_CurrentUser);
@@ -77,7 +77,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="recordID">ID bản ghi</param>
         /// <param name="stateForm">Trạng thái lấy (sửa hay nhân bản, ...)</param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetOrderByID(string v_OrderID)
         {
             return _cartDL.GetOrderByID(v_OrderID);
@@ -88,7 +88,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetAddress(string v_Address, int? v_ID)
         {
             return _cartDL.GetAddress(v_Address, v_ID);
@@ -100,7 +100,7 @@ namespace MISA.WEB08.AMIS.BL
         /// <param name="listRecordID">danh sách bản ghi cần xoá</param>
         /// <param name="count">Số lượng bản ghi bị xoá</param>
         /// <returns>Số kết quả bản ghi đã xoá</returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (5/10/2022)
+        /// CreatedBy: TVTHAI (5/10/2022)
         public ServiceResponse Actionall(string listRecordID, int count, string action)
         {
             return _cartDL.Actionall(listRecordID, count, action);
@@ -111,7 +111,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Trường muốn filter và sắp xếp</param>
         /// <returns>file Excel chứa dữ liệu danh sách </returns>
-        /// CreatedBy: Nguyễn Khắc Tiềm (6/10/2022)
+        /// CreatedBy: TVTHAI (6/10/2022)
         public override string ExportData(Dictionary<string, object> formData)
         {
             var v_Select = formData.Keys.Contains("v_Select") ? JsonConvert.DeserializeObject<List<string>>(Convert.ToString(formData["v_Select"])) : new List<string>();
@@ -205,7 +205,7 @@ namespace MISA.WEB08.AMIS.BL
         /// </summary>
         /// <param name="formData">Từ khoá tìm kiếm</param>
         /// <returns>Danh sách record và tổng số bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         public object GetStatusOrder(string v_OrderID)
         {
             return _cartDL.GetStatusOrder(v_OrderID);

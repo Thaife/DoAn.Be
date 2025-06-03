@@ -5,7 +5,7 @@ namespace MISA.WEB08.AMIS.Common.Enums
     /// Giới tính 
     /// Enum giới tính của thực thể người, 3 loại nam, nữ, khác
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public enum Gender:int
     {
         /// <summary>
@@ -31,7 +31,7 @@ namespace MISA.WEB08.AMIS.Common.Enums
     /// <summary>
     /// Kiểu join bảng
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public enum TypeJoin: int
     {
         /// <summary>
@@ -49,7 +49,7 @@ namespace MISA.WEB08.AMIS.Common.Enums
     /// <summary>
     /// Kiểu thanh toán
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public enum TypeCheckout : int
     {
         /// <summary>
@@ -66,7 +66,7 @@ namespace MISA.WEB08.AMIS.Common.Enums
     /// <summary>
     /// Trạng thái đơn hàng
     /// </summary>
-    /// Create by: Nguyễn Khắc Tiềm (21/09/2022)
+    /// Create by: TVTHAI (21/09/2022)
     public enum StatusOrder : int
     {
         /// <summary>

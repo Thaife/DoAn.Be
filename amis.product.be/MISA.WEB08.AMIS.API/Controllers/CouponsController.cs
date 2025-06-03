@@ -13,7 +13,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
     /// <summary>
     /// API dữ liệu với bảng Coupon
     /// </summary>
-    /// Created by : Nguyễn Khắc Tiềm (21/09/2022)
+    /// Created by : TVTHAI (21/09/2022)
     [Authorize]
     public class CouponsController : BasesController<Coupon>
     {
@@ -39,7 +39,7 @@ namespace MISA.WEB08.AMIS.API.Controllers
         /// </summary>
         /// <param name="recordID"></param>
         /// <returns>Thông tin chi tiết một bản ghi</returns>
-        /// Create by: Nguyễn Khắc Tiềm (26/09/2022)
+        /// Create by: TVTHAI (26/09/2022)
         [AllowAnonymous]
         [HttpGet("GetByCode/{recordCode}")]
         public async Task<IActionResult> GetRecordByCode([FromRoute] string recordCode)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MISA.WEB08.AMIS.DL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1f947bb666d6c5b2fbb47237cddc884e3fd5d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34cb66c510cc7c7139e60d5d03b96b191ea57b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MISA.WEB08.AMIS.DL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MISA.WEB08.AMIS.DL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

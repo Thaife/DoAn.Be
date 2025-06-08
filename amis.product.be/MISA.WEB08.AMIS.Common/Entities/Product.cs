@@ -111,6 +111,18 @@ namespace MISA.WEB08.AMIS.Common.Entities
         public double? Price { get; set; }
 
         /// <summary>
+        /// Giá nhập
+        /// </summary>
+        [ColumnName(Name = "Giá nhập", Width = 25, IsNumber = true)]
+        public double? PurchasePrice { get; set; }
+
+        /// <summary>
+        /// Giá nhập
+        /// </summary>
+        [ColumnName(Name = "Số lượng", Width = 25, IsNumber = true)]
+        public double? Quantity { get; set; }
+
+        /// <summary>
         /// Mô tả
         /// </summary>
         [ColumnName(Name = "Chất liệu", Width = 45)]
@@ -244,6 +256,15 @@ namespace MISA.WEB08.AMIS.Common.Entities
         /// </summary>
         [ValidateString(IsNumber = true)]
         public double? Price { get; set; }
+
+        /// <summary>
+        /// Mô tả
+        /// </summary>
+        [ValidateString(IsNumber = true)]
+        public double? PurchasePrice { get; set; }
+
+        [ValidateString(IsNumber = true)]
+        public double? Quantity { get; set; }
 
         /// <summary>
         /// Mô tả

@@ -27,6 +27,8 @@ namespace MISA.WEB08.AMIS.DL
         /// Create by: TVTHAI (21/09/2022)
         public object RunProcWithQueryFirstOrDefault(string storeProcedureName, DynamicParameters? parameters);
 
+        public object RunProcWithQueryFirstOrDefaultInwardDetail(string storeProcedureName, DynamicParameters? parameters);
+
         /// <summary>
         /// Chạy proc với Execute trong dapper
         /// </summary>
@@ -36,6 +38,8 @@ namespace MISA.WEB08.AMIS.DL
         /// <returns></returns>
         /// Create by: TVTHAI (21/09/2022)
         public int RunProcWithExecute(string storeProcedureName, DynamicParameters? parameters, ref string? v_MessOut);
+
+        public int RunsqlWithExecute(string storeProcedureName, DynamicParameters? parameters);
 
         /// <summary>
         /// Chạy proc với Query trong dapper kết hợp với Transaction

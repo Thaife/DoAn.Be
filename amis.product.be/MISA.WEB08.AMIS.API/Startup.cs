@@ -61,6 +61,8 @@ namespace MISA.WEB08.AMIS.API
             services.AddScoped<IBranchDL, BranchDL>();
             services.AddScoped<IDepotBL, DepotBL>();
             services.AddScoped<IDepotDL, DepotDL>();
+            services.AddScoped<IInwardBL, InwardBL>();
+            services.AddScoped<IInwardDL, InwardDL>();
             services.AddScoped<ILoginBL, LoginBL>();
             services.AddScoped<ILoginDL, LoginDL>();
             services.AddScoped<ICategoryBL, CategoryBL>();

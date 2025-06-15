@@ -117,7 +117,7 @@ namespace MISA.WEB08.AMIS.Common.Entities
         public double? PurchasePrice { get; set; }
 
         /// <summary>
-        /// Giá nhập
+        /// sl
         /// </summary>
         [ColumnName(Name = "Số lượng", Width = 25, IsNumber = true)]
         public double? Quantity { get; set; }

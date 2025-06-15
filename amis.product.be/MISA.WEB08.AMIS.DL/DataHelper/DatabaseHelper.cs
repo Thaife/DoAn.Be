@@ -1,4 +1,5 @@
 ﻿using Dapper;
+using MISA.WEB08.AMIS.Common.Entities;
 using MISA.WEB08.AMIS.Common.Resources;
 using MySqlConnector;
 using System;
@@ -78,6 +79,30 @@ namespace MISA.WEB08.AMIS.DL
             return result;
         }
 
+        public virtual object RunProcWithQueryFirstOrDefaultInwardDetail(string storeProcedureName, DynamicParameters? parameters)
+        {
+            object result;
+            using (var mysqlConnection = new MySqlConnection(DataContext.MySqlConnectionString))
+            {
+                //nếu như kết nối đang đóng thì tiến hành mở lại
+                if (mysqlConnection.State != ConnectionState.Open)
+                {
+                    mysqlConnection.Open();
+                }
+                // thực hiện gọi vào DB
+                result = mysqlConnection.Query<InwardDetail>(
+                    storeProcedureName,
+                    parameters,
+                    commandType: CommandType.StoredProcedure
+                    );
+                if (mysqlConnection.State == ConnectionState.Open)
+                {
+                    mysqlConnection.Close();
+                }
+            }
+            return result;
+        }
+
         /// <summary>
         /// Chạy proc với Execute trong dapper
         /// </summary>
@@ -115,6 +140,49 @@ namespace MISA.WEB08.AMIS.DL
                     {
                         Console.WriteLine(ex);
                         v_MessOut = Resource.UserMsg_Exception;
+                        //nếu thực hiện không thành công thì rollback
+                        transaction.Rollback();
+                        rowAffects = 0;
+                    }
+                    finally
+                    {
+                        if (mysqlConnection.State == ConnectionState.Open)
+                        {
+                            mysqlConnection.Close();
+                        }
+                    }
+                }
+            }
+            return rowAffects;
+        }
+
+        public int RunsqlWithExecute(string sql, DynamicParameters? parameters)
+        {
+            var rowAffects = 0;
+            using (var mysqlConnection = new MySqlConnection(DataContext.MySqlConnectionString))
+            {
+                //nếu như kết nối đang đóng thì tiến hành mở lại
+                if (mysqlConnection.State != ConnectionState.Open)
+                {
+                    mysqlConnection.Open();
+                }
+                //mở một giao dịch( nếu xóa thành công thì xóa hết, nếu lỗi giữa chừng thì dừng lại và khôi phục các dữ liệu đã bị xóa)
+                using (var transaction = mysqlConnection.BeginTransaction())
+                {
+                    try
+                    {
+                        // thực hiện gọi vào DB
+
+                        rowAffects += mysqlConnection.Execute(sql,
+                            parameters,
+                            transaction: transaction,
+                            commandType: CommandType.Text
+                            );
+                        transaction.Commit();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex);
                         //nếu thực hiện không thành công thì rollback
                         transaction.Rollback();
                         rowAffects = 0;
